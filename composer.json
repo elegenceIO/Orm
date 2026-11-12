@@ -1,0 +1,12 @@
+{
+    "name": "elegenceio/orm",
+    "description": "Php Orm for Lazarusphp and Elegence Packages",
+    "authors": [
+        {
+            "name": "itzzpadre"
+        }
+    ],
+    "type":"library",
+    "minimum-stability": "stable",
+    "require": {}
+}
